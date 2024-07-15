@@ -25,7 +25,7 @@
     "next": "14.2.4",
     "prettier": "^2.5.1",
     "react": "18.3.1",
-    "react-bootstrap": "^2.1.2",
+    "react-bootstrap": "^2.10.3",
     "react-dom": "18.3.1",
     "react-github-calendar": "^4.1.6",
     "react-inlinesvg": "3.0.3",
