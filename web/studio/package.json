@@ -16,7 +16,7 @@
     "sanity"
   ],
   "dependencies": {
-    "@sanity/cli": "3.20.2",
+    "@sanity/cli": "3.35.0",
     "@sanity/code-input": "4.1.4",
     "@sanity/dashboard": "3.1.6",
     "@sanity/vision": "3.46.1",
@@ -26,8 +26,8 @@
     "react": "18.3.1",
     "react-dom": "18.3.1",
     "react-icons": "^4.2.0",
-    "sanity": "3.20.2",
-    "styled-components": "^5.3.11"
+    "sanity": "3.37.1",
+    "styled-components": "^6.1.0"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3.1.0",
